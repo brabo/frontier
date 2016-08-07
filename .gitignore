@@ -1,0 +1,4 @@
+encrypt
+target
+src/*.o
+src/const.h
